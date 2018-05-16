@@ -15,7 +15,8 @@
 		<module>spark-demo</module>
         <module>cache-demo</module>
         <module>design-pattern</module>
-    </modules>
+		<module>algo-demo</module>
+	</modules>
 	<packaging>pom</packaging>
 	<name>demo</name>
 
